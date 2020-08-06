@@ -22,7 +22,7 @@ sitePV:
   other: "sitio pv: %s"
 
 pagePV:
-  other: "%s leido"
+  other: "%s leído"
 
 # ===== post =====
 prevPage:
@@ -41,7 +41,7 @@ toc:
   other: "Contenidos"
 
 readMore:
-  other: "Leer mas..."
+  other: "Leer más..."
 
 reward:
   other: "Reward"
@@ -61,17 +61,17 @@ readingTime:
   other: "{{ .Count }} mins lectura"
 
 outdatedInfoWarningBefore:
-  other: "[NOTE] Updated "
+  other: "[Aviso] Actualizado "
 
 outdatedInfoWarningAfter:
-  other: ". This article may have outdated content or subject matter."
+  other: ". Este artículo puede tener contenido o material desactualizado."
 
 # ===== content license =====
 author:
   other: "Autor"
 
 lastMod:
-  other: "Ultima modificación"
+  other: "Última modificación"
 
 markdown:
   other: "Markdown"
@@ -84,19 +84,19 @@ license:
 
 # ===== counter =====
 archiveCounter:
-  one: "{{ .Count }} Post en Total"
-  other: "{{ .Count }} Posts en Total"
+  one: "{{ .Count }} Artículo en total"
+  other: "{{ .Count }} Artículos en Total"
 
 tagCounter:
-  one: "{{ .Count }} Tag en Total"
-  other: "{{ .Count }} Tags en Total"
+  one: "{{ .Count }} Etiqueta en total"
+  other: "{{ .Count }} Etiquetas en total"
 
 zeroTagCounter:
-  other: "No tags"
+  other: "No tiene etiquetas"
 
 categoryCounter:
-  one: "{{ .Count }} Categoria en Total"
-  other: "{{ .Count }} Categorias en Total"
+  one: "{{ .Count }} Categoría en total"
+  other: "{{ .Count }} Categorías en total"
 
 zeroCategoryCounter:
-  other: "No categorias"
+  other: "No tiene categorías"
